@@ -4,7 +4,7 @@ Welcome to my Power BI repository! This repository contains interactive dashboar
 
 ---
 
-## 📊 Sales Overview Dashboard
+## 📊 Project 1: Sales Overview Dashboard
 
 ### 📌 Project Overview
 This interactive Power BI dashboard provides a detailed analysis of monthly sales performance, total revenue, product performance, and regional distribution.
@@ -24,3 +24,19 @@ This interactive Power BI dashboard provides a detailed analysis of monthly sale
 ### 🛠️ Tools & Technologies Used
 * **Power BI Desktop** (Data Visualization, DAX, Report Building)
 * **Excel / CSV** (Data Source)
+
+
+## 🛒 Project 2: Madhav Ecommerce Sales Dashboard
+
+![Madhav Sales Dashboard](./Dashboard_Preview.png)
+
+### 📌 Overview
+An interactive Power BI dashboard analyzing e-commerce sales, profits, customer behavior, and regional performance.
+
+### 🔍 Key Insights
+* **Total Sales & Profit:** $1.57M Sales | $175.26K Profit | 22K Units Sold
+* **Preferred Payment Mode:** Cash on Delivery (COD) leads with 41%
+* **Top Product Category:** Office Supplies (61% of total orders)
+* **Top Performing State:** California
+
+---
